@@ -1,0 +1,1 @@
+.productImg{width:calc(100% - 400px)}.imgSize{width:600px}.imgSize img{width:100%;margin-bottom:30px}.productDetial{max-width:400px}@media (max-width:1199.98px){.product{flex-direction:column-reverse;align-items:center}.productImg{width:unset}.imgSize{width:100%}.productDetial{max-width:100%;margin-bottom:30px}}
